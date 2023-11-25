@@ -1,4 +1,4 @@
-baseURL = 'https://hugoblogapp.com'
+baseURL = 'https://example.com'
 languageCode = 'en-us'
 title = 'Lama dev blog'
 
